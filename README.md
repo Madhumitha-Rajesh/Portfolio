@@ -1,39 +1,38 @@
-# Madhumitha Rajesh — Portfolio
+#Portfolio Website
 
-A pastel-modern, responsive personal portfolio built with React, Vite, Framer Motion, and Lucide React.
+A responsive personal portfolio website built to showcase my skills, internship experience, courses, and featured project.
 
-## Included
+## Tech Stack
 
-- Hero section
-- About
-- Skills
-- Internship experience
-- Featured Bacterial Growth Simulator project
-- Coursera courses
-- Contact links
-- Responsive mobile navigation
-- Subtle animations
-- Resume download placeholder
-- Profile photo placeholder
+* React.js
+* Vite
+* JavaScript
+* HTML
+* CSS
+* Framer Motion
+* Lucide React
 
-## Run locally
+## Features
 
-```bash
-npm install
-npm run dev
-```
+* Responsive design
+* Pastel-modern UI
+* Smooth and subtle animations
+* Skills and internship sections
+* Featured project showcase
+* Resume download
+* Social media links
 
-Then open the local Vite URL shown in the terminal.
+## Featured Project
 
-## Add your personal files
+**Bacterial Growth Simulator** — An interactive virtual microbiology simulation built with React.js and JavaScript.
 
-Place these inside `public/`:
+## Deployment
 
-- `profile.jpg` — your profile photo
-- `resume.pdf` — your resume
+Deployed using **Vercel**.
 
-The profile placeholder can then be replaced with your actual photo in `src/App.jsx`.
+## Author
 
-## Deploy
+**Madhumitha Rajesh**
 
-Push this project to GitHub and import the repository into Vercel. Vercel will detect Vite automatically.
+* GitHub: Madhumitha-Rajesh
+* LinkedIn: Madhumitha Rajesh
