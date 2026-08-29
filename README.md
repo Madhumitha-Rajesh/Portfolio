@@ -1,4 +1,4 @@
-#Portfolio Website
+Portfolio Website
 
 A responsive personal portfolio website built to showcase my skills, internship experience, courses, and featured project.
 
