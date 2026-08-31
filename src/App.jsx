@@ -16,7 +16,6 @@ import {
   X,
   ChevronDown,
   Award,
-  Phone,
   Terminal,
 } from "lucide-react";
 import "./App.css";
@@ -391,10 +390,7 @@ function App() {
                 <Mail size={18} />
                 <span>madhumitharajesh04@gmail.com</span>
               </a>
-              <a href="tel:+919884108782" className="contact-link">
-                <Phone size={18} />
-                <span>+91 9884108782</span>
-              </a>
+              
               <a
                 href="https://www.linkedin.com/in/madhumitha-r-735ab8348"
                 target="_blank"
